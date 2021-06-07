@@ -1,6 +1,5 @@
-# fitness-tracker
-
-# fitness-tracker  ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
+# fitness-tracker  
+![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
   This is an app where you can keep track of exersices and analyse your workouts
   ## Table of Contents:
   * [Installation](#installation)
@@ -26,8 +25,9 @@
   
    ### Credits 
     https://twitter.com/harishnarain Harish Narain
-   
+   ``````
    ### badges
+
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=red&color=0D76A8)](https://www.linkedin.com/in/juan-santos-8380b0186/)
 
 
